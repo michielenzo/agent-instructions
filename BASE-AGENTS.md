@@ -32,3 +32,11 @@ Make use of additional AGENTS.md in different components of the project. If you 
 Write unit tests if applicable for the technology that is used. While working use these tests to verify your changes.
 
 If applicable make use of frontend integration testing.  Think about technologies such as playwright, selenium etc.
+
+## Other
+
+When creating/editing GUI
+
+- Pay attention to details such as appropriate font-sizes and alignment to make the GUI look neat.
+- Make use of icons instead of labels if that makes the UX better. For example a gearwheel iconed button could be better suited than a button that says 'Settings'
+- For GUI work based on an approved mockup, verify both behavior and appearance. Compare screenshots of the running application with the mockup at the target display scale. Show one representative screen for review before implementing the remaining screens.
